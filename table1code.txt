@@ -1,0 +1,61 @@
+
+ <body bgcolor="yellow"text="blue">
+<h1 align="center"><nav><mark><b><u><i><n>CHEMISTRY FORMULAS</h1></mark></u></i></b></nav></n>
+ 
+
+ <table>
+
+ <table border="3">
+ <tr>
+  <td>1. OXYGEN</td>
+  <td>O<SUB>2</SUB></td>
+ </tr>
+ <tr>
+  <td>2. HYDROGEN</td>
+  <td>H<SUB>2</SUB>O</td>
+ </tr>
+
+<tr>
+  <td>3.METHANE</td>
+  <td>CH<sub>4</sub></td>
+ </tr>
+<tr>
+  <td>4.NITRIC OXIDE</td>
+  <td>NO</td>
+ </tr>
+ <tr>
+  <td>5.NITROGEN DIOXIDE</td>
+  <td>NO<sub>2</sub></td>
+ </tr>
+
+<tr>
+  <td>6.NITRIC ACID</td>
+  <td>HNO<sub>3</sub></td>
+ </tr>
+<tr>
+  <td>7.HYDROXYL RADICAL</td>
+  <td>HO</td>
+ </tr>
+ <tr>
+  <td>8.PEROXYACETYL NITRATE</td>
+  <td>C<sub>2</sub>H<sub>3</sub>NO<sub>5</sub></td>
+ </tr>
+
+<tr>
+  <td>9.PHOSPHATE</td>
+  <td>PO<sub>4</sub><sup>3-</sup></td>
+ </tr>
+<tr>
+  <td>10. NITRATE</td>
+  <td>NO<sub>3</sub><sup>-</sup></td>
+ </tr>
+ <tr>
+  <td>11. CHLORATE</td>
+  <td>CLO<sub>3</sub></td>
+ </tr>
+
+<tr>
+  <td>12.ACETATE</td>
+  <td>C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>-</sup></td>
+ </tr>
+<IMG src="5678.png"height="600"width="400"alt="5678png">
